@@ -22,3 +22,8 @@ Para comenzar con este proyecto, sigue estos pasos:
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/tu_usuario/toolkit-inclusion-ux-design-ai.git
+
+📚 Documentación
+La documentación completa del toolkit y sus componentes se encuentra aquí. Incluye guías de instalación, configuración y personalización para facilitar su uso en distintos proyectos.
+
+
