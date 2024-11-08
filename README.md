@@ -1,0 +1,20 @@
+📌 Toolkit for the Inclusion of UX Design Guidelines in the Development of Assistants Based on Generative Artificial Intelligence
+
+🚀 Bienvenidos al proyecto Toolkit for the Inclusion of UX Design Guidelines in the Development of Assistants Based on Generative Artificial Intelligence. Aquí podrás encontrar toda la información relevante sobre el desarrollo y la implementación de este toolkit. ¡El proyecto está en proceso de publicación! 🛠️
+
+📖 Descripción del proyecto
+Este toolkit tiene como objetivo principal mejorar el diseño e implementación de asistentes basados en IA generativa, integrando pautas específicas de experiencia de usuario (UX) para garantizar una interacción óptima y accesible.
+
+Características principales
+📈 Mejora de la UX en asistentes de IA: Proporciona directrices de diseño UX especialmente adaptadas para asistentes generativos.
+🧠 Generative AI Integration: Aprovecha modelos de IA generativa para proporcionar respuestas personalizadas y contextuales.
+🔧 Herramientas de desarrollo: Recursos y recomendaciones que facilitan la inclusión de pautas UX durante todo el proceso de desarrollo.
+
+📚 Documentación
+La documentación completa del toolkit y sus componentes se encuentra aquí. Incluye guías de instalación, configuración y personalización para facilitar su uso en distintos proyectos.
+
+💬 Contacto
+¿Tienes preguntas o comentarios sobre este proyecto? ¡No dudes en ponerte en contacto!
+
+Email: jmnunez@usal.es
+GitHub: @juankidd5
